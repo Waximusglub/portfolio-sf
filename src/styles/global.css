@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import '@fontsource-variable/dm-sans';
+@import '@fontsource-variable/cormorant-garamond';
+
+@theme {
+  --font-dmsans: "DM Sans Variable", sans-serif;
+  --font-cormorant: "Cormorant Garamond Variable", serif;
+
+  --color-primary-red: #A63D0A;
+  --color-primary-white: #F4EBDD;
+  --color-primary-black: #353535;
+}
